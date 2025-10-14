@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "name": "Nikhil Kumar",
+    "email": "nk605326@gmail.com",
+    "phone": "+91 7327883029",
+    "portfolio": "https://nikhil-k-u.github.io/",
+    "linkedin": "https://www.linkedin.com/in/nkupa/",
+    "github": "https://github.com/Nikhil-K-u/",
+    "microsoft": "https://learn.microsoft.com/en-us/users/nkupa/transcript/763xptelke5k4p0"
+  },
+
+  "about": {
+    "summary": "B.Tech Computer Science graduate passionate about cloud-native, AI-powered applications and full-stack development. Skilled at transforming innovative ideas into practical, scalable solutions.",
+    "highlights": [
+      "Currently working as a Trainee Engineer at KloudGin Inc., integrating GIS & AI with enterprise applications.",
+      "Strong foundation in backend systems, API integrations, and DevOps workflows.",
+      "Actively exploring Generative AI, LangChain, and cloud services for intelligent automation."
+    ]
+  },
+
+  "experience": [
+    {
+      "company": "KloudGin Inc.",
+      "location": "Hyderabad, Telangana, India",
+      "roles": [
+        {
+          "title": "Trainee Engineer",
+          "period": "Aug 2025 – Present",
+          "items": [
+            "Engaged in product customization and engineering to develop innovative prototypes tailored to client needs.",
+            "Integrated ESRI technology into web applications, creating custom workflows for effective client demonstrations.",
+            "Collaborated with cross-functional teams to leverage domain expertise, improving solution outcomes and scalability."
+          ]
+        },
+        {
+          "title": "Intern",
+          "period": "Aug 2024 – Jul 2025",
+          "items": [
+            "Assisted in the design and development of proof-of-concept applications for EAM and FSM platforms.",
+            "Worked on backend services using Java and MongoDB within a cloud-native SaaS architecture.",
+            "Supported client demo development and earned internal recognition as a KloudGin Platform Developer."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "PwC — Cloud & Digital Launchpad Trainee",
+      "location": "Online",
+      "period": "Feb 2024 – May 2024",
+      "items": [
+        "Completed modules on Java (98/100), RDBMS (91/100), DevOps and Cloud (86/100), and Web Development (81/100).",
+        "Gained practical exposure to digital transformation through simulated business scenarios."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "school": "Siksha 'O' Anusandhan Deemed to be University",
+      "degree": "B.Tech in Computer Science Engineering",
+      "score": "CGPA: 8.5",
+      "year": "Jun 2025",
+      "location": "Bhubaneswar, Odisha, India"
+    },
+    {
+      "school": "Sunbeam Academy",
+      "degree": "Senior Secondary (Class XII), CBSE Board",
+      "score": "90.8%",
+      "year": "2021",
+      "location": "Varanasi, India"
+    },
+    {
+      "school": "Sunbeam Academy",
+      "degree": "Secondary (Class X), CBSE Board",
+      "score": "93%",
+      "year": "2019",
+      "location": "Varanasi, India"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "JalDristi",
+      "link": "https://github.com/Nikhil-K-u/jaldristi",
+      "tech": "Python, Selenium, Scrapy, Azure, OpenAI",
+      "items": [
+        "Built a crowd-powered tool to identify and classify water-related issues using AI.",
+        "Scraped social media posts, extracted image/text content, and used Azure Cognitive Services for sentiment analysis.",
+        "Used OpenAI API to detect anomalies and assign issue categories automatically."
+      ]
+    },
+    {
+      "title": "PdfSol + Qdrant",
+      "link": "https://github.com/Nikhil-K-u/pdfSol",
+      "tech": "Python, LangChain, Streamlit, Qdrant",
+      "items": [
+        "Created a chatbot interface to extract contextual answers from uploaded PDF documents.",
+        "Used Qdrant as a vector DB, and LangChain for chunking, embedding, and retrieval."
+      ]
+    }
+  ],
+
+  "skills": {
+    "languages": ["Python", "Java", "C"],
+    "frameworks": ["LangChain", "Streamlit", "Pandas", "NumPy", "Selenium", "Scrapy"],
+    "databases": ["MongoDB", "Oracle SQL", "MySQL"],
+    "tools": ["Git", "Linux", "VS Code", "Jupyter Notebook", "Postman", "SIEM Tools"],
+    "cloud": ["Microsoft Azure", "Google Cloud Platform (GCP)"]
+  },
+
+  "certifications": [
+    {
+      "title": "Google Cybersecurity Specialization",
+      "link": "https://www.credly.com/badges/0abbe0db-40a7-4a04-bc3a-c2db873c16d0/public_url",
+      "items": [
+        "Completed Google Cybersecurity Professional Certificate (8-course specialization) with average score of 94%+, including hands-on training in Linux, SQL, Threat Detection, Incident Response, Network Security, and Python-based automation.",
+        "Hands-on experience with SIEM tools, Linux commands, Python automation, and SQL."
+      ]
+    },
+    {
+      "title": "Microsoft Certified: AI Fundamentals",
+      "link": "https://www.credly.com/badges/f715bdc3-af16-4e83-b84f-68dc9bbf9025/public_url",
+      "items": [
+        "Learned core AI and ML concepts, responsible AI, and Azure-based implementation strategies."
+      ]
+    },
+    {
+      "title": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+      "link": "https://learn.microsoft.com/api/credentials/share/en-us/Nkupa/4A04ABBB658E66C2?sharingId=7B5F822BEF56BFF8",
+      "items": [
+        "Understood SCI principles and identity protection using Microsoft 365 and Azure environments."
+      ]
+    }
+  ]
+}
